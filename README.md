@@ -1,12 +1,12 @@
 <details>
-<summary> <h2>🌐 Socials</h2></summary>
+<summary> <b>🌐 Socials</b></summary>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayshin) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayshinbj@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/hayshin)
 </details>
 <details>
-<summary> <h2>💻 Tech Stack</h2></summary>
+<summary> <b>💻 Tech Stack</b></summary>
 
 ### Languages  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary> <h2>📊 GitHub Stats</h2></summary>
+<summary> <b>📊 GitHub Stats</b></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=hayshin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=hayshin&theme=dark&hide_border=false)  
